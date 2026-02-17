@@ -1,0 +1,14 @@
+Eli Margolis | 20 | prof: MARGOLIS | grade= 91
+Alana Spiegel-Cohen|18|prof: spiegel-cohen|GRADE=88
+Rina Novick | 21 | prof: Novick | grade = 100
+Maya Cohen | 19 | prof: Margolis | grade=77
+Ben Levi||20|prof:Novick|grade= 83
+Talia Rosen| 17|PROF:Novick|grade=89
+Naomi Shemer | 19 | prof:Spiegel-Cohen | grade= 92
+David King| twenty | prof:Margolis | grade=90
+Sara Zeevi | 20 | prof:Margolis | grade= 101
+| 21 | prof:Novick | grade=70
+Yoni Green|22|prof:Green|grade=65
+Leah Gold|19|prof:Margolis| grade= 84
+Avi Cohen|16|prof:Novick|GRADE= 91
+Mira Blau | 20 | prof: Spiegel-Cohen | grade= eighty

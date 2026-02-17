@@ -1,0 +1,10 @@
+Eli Margolis|20|prof:MARGOLIS|grade=91
+Alana Spiegel-Cohen|18|prof:spiegel-cohen|grade=88
+Rina Novick|21|prof:Novick|grade=100
+Maya Cohen|19|prof:Margolis|grade=77
+Ben Levi|20|prof:Novick|grade=83
+Talia Rosen|17|prof:Novick|grade=89
+Naomi Shemer|19|prof:Spiegel-Cohen|grade=92
+Yoni Green|22|prof:Green|grade=65
+Leah Gold|19|prof:Margolis|grade=84
+Avi Cohen|16|prof:Novick|grade=91
